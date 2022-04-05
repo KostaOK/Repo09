@@ -1,4 +1,4 @@
-function myTrueBoolean () {
+function myTrueBoolean() {
     return true; {
 }
     
